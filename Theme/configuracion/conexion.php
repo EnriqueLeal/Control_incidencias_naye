@@ -2,7 +2,7 @@
 
 $bd_host = "localhost";
 $bd_usuario = "root";
-$bd_password = "enriquepro123";
+$bd_password = "";
 $bd_base = "contrrol";
 
 $conexion = mysql_connect($bd_host,$bd_usuario,$bd_password) ;
